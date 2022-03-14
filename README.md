@@ -1,1 +1,1 @@
-# Leveraging Expert Guided Adversarial Augmentation \\For Improving Generalization in Named Entity Recognition
+# Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition
