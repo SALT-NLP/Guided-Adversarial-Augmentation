@@ -1,0 +1,107 @@
+05/17/2021 13:24:46 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 13:24:46 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 13:24:46 - INFO - __main__ -   random seed 1
+05/17/2021 13:24:47 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 13:25:02 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 13:25:04 - INFO - __main__ -   Number of augmented examples: 277
+05/17/2021 13:25:07 - INFO - __main__ -   Number of augmented examples: 553
+05/17/2021 13:25:11 - INFO - __main__ -   Number of augmented examples: 1657
+05/17/2021 13:25:17 - INFO - __main__ -   Number of augmented examples: 2761
+05/17/2021 13:27:17 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 13:27:17 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 13:27:17 - INFO - __main__ -   random seed 1
+05/17/2021 13:27:17 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 13:27:31 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 13:27:33 - INFO - __main__ -   Number of augmented examples: 277
+05/17/2021 13:27:36 - INFO - __main__ -   Number of augmented examples: 553
+05/17/2021 13:27:40 - INFO - __main__ -   Number of augmented examples: 1657
+05/17/2021 13:27:46 - INFO - __main__ -   Number of augmented examples: 2761
+05/17/2021 13:28:31 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 13:28:31 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 13:28:31 - INFO - __main__ -   random seed 1
+05/17/2021 13:28:31 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 13:28:45 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 15:59:46 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 15:59:46 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 15:59:46 - INFO - __main__ -   random seed 1
+05/17/2021 15:59:46 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 16:00:01 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 16:00:03 - INFO - __main__ -   Number of augmented examples: 277
+05/17/2021 16:00:05 - INFO - __main__ -   Number of augmented examples: 553
+05/17/2021 16:00:10 - INFO - __main__ -   Number of augmented examples: 1657
+05/17/2021 16:00:16 - INFO - __main__ -   Number of augmented examples: 2761
+05/17/2021 16:00:16 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 16:00:16 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 16:00:16 - INFO - __main__ -   random seed 1
+05/17/2021 16:00:16 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 16:00:30 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 16:02:29 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 16:02:29 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 16:02:29 - INFO - __main__ -   random seed 1
+05/17/2021 16:02:29 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 16:02:43 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 16:29:47 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 16:29:47 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 16:29:47 - INFO - __main__ -   random seed 1
+05/17/2021 16:29:48 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 16:30:02 - INFO - __main__ -   Number of augmented examples: 5523
+05/17/2021 16:30:03 - INFO - __main__ -   ------NEW RUN-----
+05/17/2021 16:30:03 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/17/2021 16:30:03 - INFO - __main__ -   random seed 1
+05/17/2021 16:30:03 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/17/2021 16:30:04 - INFO - __main__ -   Number of augmented examples: 277
+05/17/2021 16:30:07 - INFO - __main__ -   Number of augmented examples: 553
+05/17/2021 16:30:11 - INFO - __main__ -   Number of augmented examples: 1657
+05/17/2021 16:30:17 - INFO - __main__ -   Number of augmented examples: 2761
+05/17/2021 16:30:18 - INFO - __main__ -   Number of augmented examples: 5523
+05/18/2021 00:20:31 - INFO - __main__ -   ------NEW RUN-----
+05/18/2021 00:20:31 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/18/2021 00:20:31 - INFO - __main__ -   random seed 1
+05/18/2021 00:20:35 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/18/2021 00:20:49 - INFO - __main__ -   Number of augmented examples: 5523
+05/18/2021 00:20:51 - INFO - __main__ -   Number of augmented examples: 277
+05/18/2021 00:20:54 - INFO - __main__ -   Number of augmented examples: 553
+05/18/2021 00:20:58 - INFO - __main__ -   Number of augmented examples: 1657
+05/18/2021 00:21:04 - INFO - __main__ -   Number of augmented examples: 2761
+05/18/2021 00:21:05 - INFO - __main__ -   ------NEW RUN-----
+05/18/2021 00:21:05 - INFO - __main__ -   device: cuda, n_gpu: 1
+05/18/2021 00:21:05 - INFO - __main__ -   random seed 1
+05/18/2021 00:21:05 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+05/18/2021 00:21:19 - INFO - __main__ -   Number of augmented examples: 5523
+09/29/2021 19:13:01 - INFO - __main__ -   ------NEW RUN-----
+09/29/2021 19:13:01 - INFO - __main__ -   device: cuda, n_gpu: 1
+09/29/2021 19:13:01 - INFO - __main__ -   random seed 1
+09/29/2021 19:13:01 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+09/29/2021 19:13:16 - INFO - __main__ -   Number of augmented examples: 5523
+09/29/2021 19:13:18 - INFO - __main__ -   Number of augmented examples: 277
+09/29/2021 19:13:20 - INFO - __main__ -   Number of augmented examples: 553
+09/29/2021 19:13:25 - INFO - __main__ -   Number of augmented examples: 1657
+09/29/2021 19:13:31 - INFO - __main__ -   Number of augmented examples: 2761
+09/29/2021 19:25:57 - INFO - __main__ -   ------NEW RUN-----
+09/29/2021 19:25:57 - INFO - __main__ -   device: cuda, n_gpu: 1
+09/29/2021 19:25:57 - INFO - __main__ -   random seed 1
+09/29/2021 19:25:59 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+09/29/2021 19:26:20 - INFO - __main__ -   Number of augmented examples: 15
+09/30/2021 00:04:55 - INFO - __main__ -   ------NEW RUN-----
+09/30/2021 00:04:55 - INFO - __main__ -   device: cuda, n_gpu: 1
+09/30/2021 00:04:55 - INFO - __main__ -   random seed 1
+09/30/2021 00:04:56 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+09/30/2021 00:05:17 - INFO - __main__ -   Number of augmented examples: 25
+09/30/2021 14:32:49 - INFO - __main__ -   ------NEW RUN-----
+09/30/2021 14:32:49 - INFO - __main__ -   device: cuda, n_gpu: 1
+09/30/2021 14:32:49 - INFO - __main__ -   random seed 1
+09/30/2021 14:32:49 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+09/30/2021 14:33:05 - INFO - __main__ -   Number of augmented examples: 5523
+09/30/2021 14:33:08 - INFO - __main__ -   Number of augmented examples: 277
+09/30/2021 14:33:11 - INFO - __main__ -   Number of augmented examples: 553
+09/30/2021 14:33:15 - INFO - __main__ -   Number of augmented examples: 1657
+09/30/2021 14:33:22 - INFO - __main__ -   Number of augmented examples: 2761
+09/30/2021 14:34:11 - INFO - __main__ -   ------NEW RUN-----
+09/30/2021 14:34:11 - INFO - __main__ -   device: cuda, n_gpu: 1
+09/30/2021 14:34:11 - INFO - __main__ -   random seed 1
+09/30/2021 14:34:12 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, batch_size=8, config_name='', data_dir='data/conll2003', device=device(type='cuda'), do_eval=True, do_lower_case=False, do_predict=True, do_train=True, eval_all_checkpoints=False, eval_batch_size=128, eval_pad_subtoken_with_first_subtoken_only=True, evaluate_during_training=True, gpu='6', gradient_accumulation_steps=1, label_sep_cls=True, labels='./data/conll2003/labels.txt', learning_rate=5e-05, log_file='results.csv', logging_steps=150, max_grad_norm=1.0, max_seq_length=256, max_steps=-1, model_name='bert-base-cased', model_type='bert', n_gpu=1, num_labels=12, num_train_epochs=10.0, optimizer='adam', output_dir='data/conll2003', overwrite_output_dir=True, pad_subtoken_with_real_label=True, save_steps=750, seed=1, special_label_weight=0, subtoken_label_type='real', tokenizer_name='', train_examples=-1, warmup_steps=0, weight_decay=0.0)
+09/30/2021 14:34:27 - INFO - __main__ -   Number of augmented examples: 5523
+09/30/2021 14:34:30 - INFO - __main__ -   Number of augmented examples: 277
+09/30/2021 14:34:32 - INFO - __main__ -   Number of augmented examples: 553
+09/30/2021 14:34:37 - INFO - __main__ -   Number of augmented examples: 1657
+09/30/2021 14:34:44 - INFO - __main__ -   Number of augmented examples: 2761
