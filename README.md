@@ -1,5 +1,6 @@
 # Guided-Adversarial-Augmentation
 Code and Dataset for the ACL 2022 (Findings) paper "Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition"
+arXiv link: https://arxiv.org/abs/2203.10693
 
 ## Requirements
 Python 3.6 or higher
