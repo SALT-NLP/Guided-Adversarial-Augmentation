@@ -6,3 +6,10 @@ Python 3.6 or higher
 Pytorch >= 1.4.0
 Pytorch_transformers (also known as transformers)
 Numpy
+
+## Data
+Please unzip the data.zip file. It contains within it the Challenge Set. The Challenge Set’s examples are annotated with a 1 for high quality and a 0 or 2 for low
+quality. The code only reads in examples annotated with a 1 from the file.
+
+## Code
+Please run the commands contained in the "README Commands" file for data processing and reproduction of experiments.
